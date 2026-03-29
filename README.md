@@ -4,7 +4,7 @@ harry-at-cognosa
 Harry A. Layman,PhD github user page
 
 
-## here are a few examples of my work, plus an auto-generated tank game, and a uture interesting web site idea:
+## here are a few examples of my work, plus an auto-generated tank game, and a future interesting web site idea (Is It Journalism dot org, related to its sister site, Is It Real.
 
 ### cognosa web app -- multi-tenant RAG application platform
 
@@ -46,6 +46,10 @@ Only game published right now is the Tank Game. other Wip as time permits.
 Mock up with example results (try the "details" button)
 
 https://harry-at-cognosa.github.io/isitj/
+
+                                                                           
+[not live https://  harry-at-cognosa  github.io/    isitr/] 
+                                             
 
 ### other 
 
