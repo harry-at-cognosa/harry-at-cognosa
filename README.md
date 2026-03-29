@@ -43,13 +43,18 @@ Only game published right now is the Tank Game. other Wip as time permits.
 
 ### is it journalism -- a future project
 
+#### Mock up with example results (__try the "details" button__)
+
 Mock up with example results (try the "details" button)
 
 https://harry-at-cognosa.github.io/isitj/
 
-                                                                           
-[not live https://  harry-at-cognosa  github.io/    isitr/] 
-                                             
+
+another mock up but not live: 
+
+not live yet: __"is it real"__  https:// harry-at-cognosa.github.io/isitr/
+                                                                        
+
 
 ### other 
 
