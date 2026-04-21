@@ -4,10 +4,14 @@ harry-at-cognosa
 Harry A. Layman,PhD github user page
 
 
-## here are a few examples of my work, including simple in-browswer retro games (Tank Battle and a Helicopter Rescue impelementation for desktop and one for mobile), a drawing program built to my specs from scratch and deployable as a mac (electron) app; and a future interesting web site ideas (Is It Journalism dot org, related to its sister site, Is It Real -- the sort of act-checking tools that should be a lot more abundant in this day and age.
+## here are a few examples of my work  (AI-based solutions, Agentic AI, LLM-powered)
+
+Including simple in-browswer retro games (Tank Battle and a Helicopter Rescue impelementation for desktop and one for mobile), a drawing program built to my specs from scratch and deployable as a mac (electron) app; and a future interesting web site ideas (Is It Journalism dot org, related to its sister site, Is It Real -- the sort of act-checking tools that should be a lot more abundant in this day and age.
 
 
 ### p51 local automator web app -- desktop or dedicated Mac Mini server for a small office (several users) or home
+
+https://github.com/harry-at-cognosa/p51-local-automator
 
 This web application will provide multi-tenant-user automation support as a secure platfomr on your LAN. Everything runs local except calls to your favorite LLM vendor API.  Currently under construction.
 
@@ -45,7 +49,7 @@ https://github.com/harry-at-cognosa/agentic-os
 
 ### browser games! i wanted a no frills, classic, no-ads tank game. That lead to ...
 
-Claude made version one of this game in seconds. 11 iterations later i had something i was happy with. Then made a browser only edition for mobile devices.  Ten made a helicopter Rescue game. Then wanted a simple drawing app to replace "simple diagrams" and had one in a a matter of days. 
+Claude made version one of this game in seconds. 11 iterations later i had something i was happy with. Then I made a browser only edition for mobile devices. Then I made a helicopter rescue game - with the long ago APple IIe Rescue Ranger as a guide. And forever i wanted a simple drawing app to replace "simple diagrams" and with Claude's help I had one in a matter of days. 
 
 https://harry-at-cognosa.github.io/html-browser-games/    Tank and Helicopter Rescue games -- for desktop (best) or mobile (on-screen controls) 
 
@@ -55,14 +59,13 @@ https://github.com/harry-at-cognosa/haldraw  (there is an unsigned "Electron" dm
 
 #### Mock up with example results (__try the "details" button__)
 
-Mock up with example results (try the "details" button)
-
 https://harry-at-cognosa.github.io/isitj/
-
 
 another mock up but not live: 
 
-not live yet: __"is it real"__  https:// harry-at-cognosa.github.io/isitr/
+not live yet: __"is it real"__  
+
+https:// harry-at-cognosa.github.io/isitr/
                                                                         
 
 
