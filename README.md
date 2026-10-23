@@ -4,7 +4,7 @@ Harry A. Layman, PhD
 Senior Technology Advisor and AI Solutions Architect, CogWrite Semantic Technologies (San Diego).
 Production AI systems end to end: multi-tenant SaaS, RAG pipelines, agentic workflows, and LLM infrastructure.
 
-see also: https://cogwrite.ai      https://www.linkedin.com/in/harrylayman/     https://cogwrite.ai/gallery-1-1 
+### see also: https://cogwrite.ai   |   https://www.linkedin.com/in/harrylayman/  |  https://cogwrite.ai/gallery-1-1 
 
 ## A few examples of my work (AI-based solutions, agentic AI, LLM-powered)
 
