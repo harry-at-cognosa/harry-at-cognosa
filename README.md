@@ -1,69 +1,76 @@
-harry-at-cognosa
+Harry A. Layman, PhD
 =======================
 
-Harry A. Layman,PhD github user page
+Senior Technology Advisor and AI Solutions Architect, CogWrite Semantic Technologies (San Diego).
+Production AI systems end to end: multi-tenant SaaS, RAG pipelines, agentic workflows, and LLM infrastructure.
 
-## here are a few examples of my work  (AI-based solutions, Agentic AI, LLM-powered)
+## A few examples of my work (AI-based solutions, agentic AI, LLM-powered)
 
-### cognosa web app -- multi-tenant RAG application platform
+### Cognosa web app -- multi-tenant RAG application platform
 
-https://github.com/harry-at-cognosa/cognosa-web-app 
+https://github.com/harry-at-cognosa/cognosa-web-app
 
-Information about Cognosa, the FastAPI, Langchain, "AI as a Service" multi-tenant, multi-LLM, multi-context, multi-vector-db solution platform is also available at [files.cognosa.net/cognosa-info](https://www.google.com/url?q=http%3A%2F%2Ffiles.cognosa.net%2Fcognosa-info%2F&sa=D). Support for OpenAI, Anthropic, Google, Alibaba and open source models hosted by Ollama including Meta's Llama.  Vectore databases supported include Chromaadb, pgVector and Qdrant (Qdrant works best!).
+Cognosa is a FastAPI + LangChain "AI as a Service" platform: multi-tenant, multi-LLM, multi-context, multi-vector-database. It supports OpenAI, Anthropic, Google, Alibaba and open-source models hosted by Ollama, including Meta's Llama. Vector databases supported include ChromaDB, pgvector and Qdrant (Qdrant works best). More information at [files.cognosa.net/cognosa-info](http://files.cognosa.net/cognosa-info/).
 
-
-### p51 local automator web app -- desktop or dedicated Mac Mini server for a small office (several users) or home
+### p51 local automator -- desktop or dedicated Mac mini server for a small office or home
 
 https://github.com/harry-at-cognosa/p51-local-automator
 
-This web application will provide multi-tenant-user automation support as a secure platfomr on your LAN. Everything runs local except calls to your favorite LLM vendor API.  Currently under construction.
+A multi-user automation platform that runs securely on your LAN. Everything runs locally except calls to your chosen LLM vendor API. Currently under construction.
 
-Create your own multi-step automations including HIIT (human in the loop) operations with access to the full gammet of Apple and Google services (via local MCP -- no laky remote backends to crash your work lows). These automations or each user work with the user's own Apple and Google / Google Workspace access previledges to access email, documents, tools for authoring and reading documents, as well as a bunch of database and api services. LLM powered with your vendor of choice. Built in agentic workflows can be fully custimzed. Samples include daily / weekly / on-demand email or calendar summary / review, workflows that check data from a vareity of sources and provide alerts and trigger associated tasks that can themselves generate email, author documents or reports and update Google sheets or invoke other services.
+Build multi-step automations, including human-in-the-loop (HITL) steps, with access to the full range of Apple and Google services via local MCP servers, so there are no leaky remote back ends to crash your workflows. Each user's automations run under that user's own Apple and Google / Google Workspace privileges to reach email, documents, authoring and reading tools, and a range of database and API services. LLM-powered with the vendor of your choice. Built-in agentic workflows are fully customizable. Samples include daily, weekly or on-demand email and calendar summaries, and workflows that check data from a variety of sources, raise alerts, and trigger follow-on tasks that send email, author documents or reports, update Google Sheets, or invoke other services.
+
+### AWS serverless document summarization workflow
+
+https://github.com/harry-at-cognosa/p41-aws-genai-workflow
+
+AWS-native serverless pipeline (Lambda + Bedrock + Claude) for document summarization. v1.0 personal MVP; v2.0 will port to FastAPI / PostgreSQL.
 
 ### Sales Quote Manager automation application
 
-This is the auto-coded front end web app:
+Front-end web app (primary UI for admin users and Area Sales Managers):
 
-https://github.com/harry-at-cognosa/listmgr1   (primary UI for admin users and sales Area Sales Managers:
+https://github.com/harry-at-cognosa/listmgr1
 
-This is the FastAPI web app that shartes the sales quote manager database of templates and sales quotes for all country / currency / product category / product lines.
+This FastAPI web app shares the Sales Quote Manager database of templates and sales quotes across all country / currency / product category / product line combinations.
 
-https://github.com/harry-at-cognosa/listldr1    (home to the back end functions that implement complex business logic. Executes batch jobs (mass updates to templates) on the back end, as well as provides (via API) single template / quote conversions, cloning, re-generation after price / area / currency changes.
+Back end:
 
-Info about the Sales Quote Manager app is also at [files.cognosa.net/quotemgr-info](https://www.google.com/url?q=http%3A%2F%2Ffiles.cognosa.net%2Fquotemgr-info%2F&sa=D)
+https://github.com/harry-at-cognosa/listldr1
 
+Home to the back-end functions that implement the complex business logic. Executes batch jobs (mass updates to templates) and provides, via API, single template / quote conversions, cloning, and regeneration after price, area or currency changes.
 
-### agentic-os Content generation pipeline
+More information at [files.cognosa.net/quotemgr-info](http://files.cognosa.net/quotemgr-info/).
 
-(WIP private)
+### agentic-os -- content generation pipeline
+
+(WIP, private)
 
 https://github.com/harry-at-cognosa/agentic-os
 
+## Other
 
-##  Other
+### Browser games
 
-### browser games! i wanted a no frills, classic, no-ads tank game. That lead to ...
+I wanted a no-frills, classic, no-ads tank game. Claude made version one in seconds; eleven iterations later I had something I was happy with. Then I made a browser-only edition for mobile devices, then a helicopter rescue game with the long-ago Apple IIe Rescue Raiders as a guide, and finally a first-person 3D adaptation of Zork I.
 
-Claude made version one of this game in seconds. 11 iterations later i had something i was happy with. Then I made a browser only edition for mobile devices. Then I made a helicopter rescue game - with the long ago APple IIe Rescue Ranger as a guide. And forever i wanted a simple drawing app to replace "simple diagrams" and with Claude's help I had one in a matter of days. 
+- https://harry-at-cognosa.github.io/html-browser-games/ -- Tank and Helicopter Rescue games, for desktop (best) or mobile (on-screen controls)
+- https://github.com/harry-at-cognosa/zork-underground-empire -- Zork I in 3D, in your browser
 
-https://harry-at-cognosa.github.io/html-browser-games/    Tank and Helicopter Rescue games -- for desktop (best) or mobile (on-screen controls) 
+### haldraw -- local infinite-canvas diagramming app
 
-https://github.com/harry-at-cognosa/haldraw  (there is an unsigned "Electron" dmg version that runs on Mac OS in /dist)
+https://github.com/harry-at-cognosa/haldraw
 
-### is it journalism -- a future project
+For years I wanted a simple drawing app to replace "Simple Diagrams". With Claude's help I had one in a matter of days (Electron + React + SQLite). An unsigned Electron .dmg for macOS is in `/dist`.
 
-#### Mock up with example results (__try the "details" button__)
+### Is It Journalism -- a future project
+
+Mock-up with example results (try the "details" button):
 
 https://harry-at-cognosa.github.io/isitj/
 
-another mock up but not live: 
+A second mock-up, "Is It Real", is not live yet.
 
-not live yet: __"is it real"__  
+### Contact
 
-https:// harry-at-cognosa.github.io/isitr/
-                                                                        
-
-
-### other 
-
-Github Home:  https://github.com/harry-at-cognosa
+CogWrite Semantic Technologies -- harry@cognosa.net
