@@ -44,26 +44,13 @@ Home to the back-end functions that implement the complex business logic. Execut
 
 More information at [files.cognosa.net/quotemgr-info](http://files.cognosa.net/quotemgr-info/).
 
-### agentic-os -- content generation pipeline
-
-(WIP, private)
-
-https://github.com/harry-at-cognosa/agentic-os
-
 ### haldraw -- local infinite-canvas diagramming app with shape / label / text / connector re-vectorization!
 
 https://github.com/harry-at-cognosa/haldraw
 
 For years I wanted a simple drawing app to replace "Simple Diagrams". With Claude's help I had one in a matter of days (Electron + React + SQLite). An unsigned Electron .dmg for macOS is in `/dist`.
 
-### Is It Journalism -- a future project
-
-Mock-up with example results (try the "details" button):
-
-https://harry-at-cognosa.github.io/isitj/
-
-A second mock-up, "Is It Real", is not live yet.
 
 ### Contact
 
-CogWrite Semantic Technologies -- harry@cognosa.net
+[CogWrite Semantic Technologies](https://cogwrite.com) -- harry@cognosa.net
