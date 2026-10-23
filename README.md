@@ -4,6 +4,9 @@ Harry A. Layman, PhD
 Senior Technology Advisor and AI Solutions Architect, CogWrite Semantic Technologies (San Diego).
 Production AI systems end to end: multi-tenant SaaS, RAG pipelines, agentic workflows, and LLM infrastructure.
 
+https://cogwrite.ai
+https://www.linkedin.com/in/harrylayman/
+
 ## A few examples of my work (AI-based solutions, agentic AI, LLM-powered)
 
 ### Cognosa web app -- multi-tenant RAG application platform
@@ -48,16 +51,7 @@ More information at [files.cognosa.net/quotemgr-info](http://files.cognosa.net/q
 
 https://github.com/harry-at-cognosa/agentic-os
 
-## Other
-
-### Browser games
-
-I wanted a no-frills, classic, no-ads tank game. Claude made version one in seconds; eleven iterations later I had something I was happy with. Then I made a browser-only edition for mobile devices, then a helicopter rescue game with the long-ago Apple IIe Rescue Raiders as a guide, and finally a first-person 3D adaptation of Zork I.
-
-- https://harry-at-cognosa.github.io/html-browser-games/ -- Tank and Helicopter Rescue games, for desktop (best) or mobile (on-screen controls)
-- https://github.com/harry-at-cognosa/zork-underground-empire -- Zork I in 3D, in your browser
-
-### haldraw -- local infinite-canvas diagramming app
+### haldraw -- local infinite-canvas diagramming app with shape / label / text / connector re-vectorization!
 
 https://github.com/harry-at-cognosa/haldraw
 
